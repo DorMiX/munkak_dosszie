@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<munkak_dosszie lang="hu">
+	<agazatok nr="1">Ágazat</agazatok>
+	<ajanlatok nr="2">Ajánlat</ajanlatok>
+	<allapotok nr="3">Állapot</allapotok>
+	<atadasatvetelik nr="4">Átadás-Átvételi</atadasatvetelik> 
+	<bejegyzesek nr="5">Bejegyzés</bejegyzesek>
+	<cegek nr="6">Cég</cegek>
+	<csoportok nr="7">Csoport</csoportok>
+	<dokumentek nr="8">Dokumentum</dokumentek>
+	<eszkozok nr="9">Eszköz</eszkozok>
+	<felhasznalok nr="10">Felhasználó</felhasznalok>
+	<igennem>Igen/Nem</igennem>
+	<jogok nr="11">Jog</jogok>
+	<megrendelesek nr="12">Megrendelés</megrendelesek>
+	<minugyjegyzetek nr="13">Minőségügyi jegyzet</minugyjegyzetek>
+	<munkakorok nr="14">Munkakör</munkakorok>
+	<muszerek nr="15">Műszer</muszerek>
+	<partnerek nr="16">Partner</partnerek>
+	<prjtipusok nr="17">Projekt típus</prjtipusok>
+	<projektek nr="18">Projekt</projektek>
+	<szamlak nr="19">Számla</szamlak>
+	<tibek nr="20">Teljesítés Igazolási Bizonylat</tibek>
+	<xcsop_jog nr="21">Csoport × Jog</xcsop_jog>
+	<xproj_adve nr="22"></xproj_adve>
+	<xproj_ajan nr="23"></xproj_ajan>
+	<xproj_alkm nr="24">Projekt × Felhasználó</xproj_alkm>
+	<xproj_doku nr="25"></xproj_doku>
+	<xproj_eszk nr="26">Projekt × Eszköz</xproj_eszk>
+	<xproj_megr nr="27"></xproj_megr>
+	<xproj_musz nr="28">Projekt × Műszer</xproj_musz>
+	<xproj_szlk nr="29"></xproj_szlk>
+	<xproj_tibz nr="30"></xproj_tibz>
+</munkak_dosszie>

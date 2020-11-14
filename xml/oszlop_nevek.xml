@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<munkak_dosszie lang="hu">
+	<general nr="0">
+		<last_update>Utolsó módosítás</last_update>
+		<eutvonal>Eredeti útvonal</eutvonal>
+		<efajlnev>Eredeti fájlnév</efajlnev>
+		<tutvonal>Tárolt útvonal</tutvonal>
+		<tfajlnev>Tárolt fájlnév</tfajlnev>
+		<tlink>Tárolt link</tlink>
+		<letrehozas>Létrehozás dátuma</letrehozas>
+		<nev>Név</nev>
+		<allapot>Állapot</allapot>
+		<rleiras>Rövid leírás</rleiras>
+	</general>
+	<agazatok nr="1">
+		<idAgazat>Ágazat ID</idAgazat>
+		<nvAgazat>Ágazat név</nvAgazat>
+	</agazatok>
+	<ajanlatok nr="2">
+		<idAjanlat>Ajánlat ID</idAjanlat>
+		<idAjanlatNr>Ajánlat sorszám</idAjanlatNr>
+	</ajanlatok>
+	<allapotok nr="3">
+		<idAllapot>Állapot ID</idAllapot>
+		<nvAllapot>Állapot név</nvAllapot>
+	</allapotok>
+	<atadasatvetelik nr="4">
+		<idAtadasAtveteliNr>Átadás-Átvételi sorszám</idAtadasAtveteliNr>
+		<idAtadasAtveteli>Átadás-Átvételi ID</idAtadasAtveteli>
+	</atadasatvetelik>    
+	<bejegyzesek nr="5">
+		<idBejegyzes>Bejegyzés ID</idBejegyzes>
+		<bejegyzes>Bejegyzés</bejegyzes>
+	</bejegyzesek>
+	<cegek nr="6">
+		<idCeg>Cég ID</idCeg>
+		<nvCeg>Cég név</nvCeg>
+		<cegteljesnev>Teljes név</cegteljesnev>
+		<irsz>Irsz.</irsz>
+		<telepules>Helyiség</telepules>
+		<cim>Cím</cim>
+		<agazat>Ágazat</agazat>
+	</cegek>
+	<csoportok nr="7">
+		<idCsoport>Csoport ID</idCsoport>
+		<nvCsoport>Csoport név</nvCsoport>
+	</csoportok>
+	<dokumentek nr="8">
+		<idDokumentNr>Dokumentum sorszám</idDokumentNr>
+		<idDokument>Dokumentum ID</idDokument>
+	</dokumentek>
+	<eszkozok nr="9">
+		<idEszkozNr>Eszköz sorszám</idEszkozNr>
+		<idEszkoz>Eszköz ID</idEszkoz>
+		<nvEszkoz>Eszköz név</nvEszkoz>
+	</eszkozok>
+	<felhasznalok nr="10">
+		<idFelhasznalo>Felhasználó ID</idFelhasznalo>
+		<nvEmail>e-mail</nvEmail>
+		<nvFelhasznalo>Felhasználó név</nvFelhasznalo>
+		<csoport>Csoport tagja</csoport>
+		<jelszo>Jelszó</jelszo>
+		<teljesnev>Teljes név</teljesnev>
+		<munkakor>Munkakör</munkakor>
+		<mobil>Mobil szám</mobil>
+	</felhasznalok>
+	<igennem>
+		<idIN>ID</idIN>
+		<nvIN>Név</nvIN>
+	</igennem>
+	<jogok nr="11">
+		<idJog>Jog ID</idJog>
+		<nvJog>Jog név</nvJog>
+	</jogok>
+	<megrendelesek nr="12">
+		<idMegrendelesNr>Megrendelés sorszám</idMegrendelesNr>
+		<idMegrendeles>Megrendelés ID</idMegrendeles>
+	</megrendelesek>
+	<minugyjegyzetek nr="13">
+		<idMinUgyJegyzet>Minőségügyi jegyzet ID</idMinUgyJegyzet>
+		<jegyzet>Minőségügyi jegyzet</jegyzet>
+	</minugyjegyzetek>
+	<munkakorok nr="14">
+		<idMunkakor>Munkakör ID</idMunkakor>
+		<nvMunkakor>Munkakör név</nvMunkakor>
+	</munkakorok>
+	<muszerek nr="15">
+		<idMuszerNr>Műszer sorszáma</idMuszerNr>
+		<idMuszer>Műszer ID</idMuszer>
+		<nvMuszer>Műszer név</nvMuszer>
+		<gyarto>Gyártó</gyarto>
+		<tipus>Típus</tipus>
+		<gysz>Gyári szám</gysz>
+		<kalbiz>Kalibrálási bizonyítvány száma</kalbiz>
+		<kaldatum>Kalibrálás dátum</kaldatum>
+		<kalerv>Kalibrálás érvényessége</kalerv>
+	</muszerek>
+	<partnerek nr="16">
+		<idPartner>Partner ID</idPartner>
+		<nvPartner>Partner név</nvPartner>
+		<beosztas>Beosztás</beosztas>
+		<reszleg>Részleg</reszleg>
+		<email>e-mail cím</email>
+	</partnerek>
+	<prjtipusok nr="17">
+		<idPrjTipus>Projekt típus ID</idPrjTipus>
+		<nvPrjTipus>Projekt típus név</nvPrjTipus>
+	</prjtipusok>
+	<projektek nr="18">
+		<idProjektNr>Projekt sorszám</idProjektNr>
+		<idProjekt>Projekt ID</idProjekt>
+		<nvProjekt>Projekt név</nvProjekt>
+		<prjtipus>Projekt típus</prjtipus>
+		<letrehozo>Létrehozó</letrehozo>
+		<leiras>Projekt leírás</leiras>
+		<ceg>Cég</ceg>
+		<kezdete>Projekt kezdete</kezdete>
+		<vege>Projekt vége</vege>
+		<ajanlatkell>Ajánlat kell?</ajanlatkell>
+		<megrendelve>Megrendelve?</megrendelve>
+		<dokukesz>Dokumentáció kész?</dokukesz>
+		<advekesz>Átadás-Átvételi kész?</advekesz>
+		<tibkesz>TIB kész?</tibkesz>
+		<szamlazva>Számlázva?</szamlazva>
+		<utoelet>Utóélet</utoelet>
+		<ellenorzojel>Ellenőrzőjel</ellenorzojel>
+	</projektek>
+	<szamlak nr="19">
+		<idSzamlaNr>Számla sorszáma</idSzamlaNr>
+		<idSzamla>Számla ID</idSzamla>
+	</szamlak>
+	<tibek nr="20">
+		<idTibNr>Teljesítés Igazolási Bizonylat ssz.</idTibNr>
+		<idTib>Teljesítés Igazolási Bizonylat ID</idTib>
+	</tibek>
+	<xcsop_jog nr="21">
+		<idXCsopJog>Csoport × Jog ID</idXCsopJog>
+		<idCsoportX>Csoport xID</idCsoportX>
+		<idJogX>Jog xID</idJogX>
+	</xcsop_jog>
+	<xproj_adve nr="22">
+		
+	</xproj_adve>
+	<xproj_ajan nr="23">
+		
+	</xproj_ajan>
+	<xproj_alkm nr="24">
+		<idXProjAlkm>Projekt × Felhasználó ID</idXProjAlkm>
+		<idProjektNrX>Projekt xID</idProjektNrX>
+		<idFelhasznaloX>Felhasználó xID</idFelhasznaloX>
+	</xproj_alkm>
+	<xproj_doku nr="25">
+		
+	</xproj_doku>
+	<xproj_eszk nr="26">
+		<idXProjEszk>Projekt × Eszköz ID</idXProjEszk>
+		<idEszkozNrX>Eszköz xID</idEszkozNrX>
+	</xproj_eszk>
+	<xproj_megr nr="27">
+		
+	</xproj_megr>
+	<xproj_musz nr="28">
+		<idMuszerNrX>Műszer xID</idMuszerNrX>
+	</xproj_musz>
+	<xproj_szlk nr="29">
+		
+	</xproj_szlk>
+	<xproj_tibz nr="30">
+		
+	</xproj_tibz>
+</munkak_dosszie>

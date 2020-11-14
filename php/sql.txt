@@ -1,0 +1,8 @@
+CREATE VIEW view_ajanlatkell AS
+SELECT 
+idProjektNr, idProjekt, nvProjekt, prjtipus, allapot, projektek.letrehozas, letrehozo, leiras, ceg, kezdete, vege, ajanlatkell, megrendelve, dokukesz, advekesz, tibkesz, szamlazva, utoelet, projektek.last_update, ellenorzojel, idIN, nvIN 
+FROM 
+projektek, igennem 
+WHERE 
+ajanlatkell = idIN
+

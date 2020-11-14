@@ -1,0 +1,5 @@
+kapcsolási rajzok      http://www.uoguelph.ca/~antoon/circ/circuits.htm
+PWM Fan Controllers    http://casemods.pointofnoreturn.org/pwm/index.html
+LCD Serial Terminal    http://www.bobblick.com/techref/projects/lcdterm/lcdterm.html
+Classic PIC Programmer http://www.bobblick.com/techref/projects/picprog/picprog.html
+

@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Adminisztráció – új fájlok feltöltése</title>
+</head>
+<body>
+<h1>Új fájlok feltöltése</h1>
+<form action="feltoltes.php" method="post" enctype="multipart/form-data"/>
+<div>
+  <input type="hidden" name="MAX_FILE_SIZE" value="1000000" />
+  <label for="felhasznaloi_fajl">Feltöltendõ fájl:</label>
+  <input type="file" name="felhasznaloi_fajl" id="felhasznaloi_fajl"/>
+  <input type="submit" value="Fájl küldése"/>
+</div>
+</form>
+</body>
+</html>

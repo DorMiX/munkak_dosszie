@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<munkak_dosszie lang="hu">
+	<tbl>
+		<agazatok>Ágazatok</agazatok>
+		<idAgazat>Ágazat ID</idAgazat>
+		<nev>Ágazat név</nev>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<ajanlatok>Ajánlatok</ajanlatok>
+		<idAjanlat>Ajánlat ID</idAjanlat>
+		<idProjekt>Projekt ID</idProjekt>
+		<eutvonal>Eredeti útvonal</eutvonal>
+		<efajlnev>Eredeti fájlnév</efajlnev>
+		<tutvonal>Tárolt útvonal</tutvonal>
+		<tfajlnev>Tárolt fájlnév</tfajlnev>
+		<tlink>Tárolt link</tlink>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<allapotok>Állapotok</allapotok>
+		<idAllapot>Állapot ID</idAllapot>
+		<nev>Állapot név</nev>
+		<last_update>Utolsó módosítás</last_update>
+		<create_date>Létrehozás dátuma</create_date>
+	</tbl>
+	<tbl>
+		<atadasatvetelik>Átadás-Átvételik</atadasatvetelik>
+		<idAtadasAtveteli>Átadás-Átvételi ID</idAtadasAtveteli>
+		<idProjekt>Projekt ID</idProjekt>
+		<eutvonal>Eredeti útvonal</eutvonal>
+		<efajlnev>Eredeti fájlnév</efajlnev>
+		<tutvonal>Tárolt útvonal</tutvonal>
+		<tfajlnev>Tárolt fájlnév</tfajlnev>
+		<tlink>Tárolt link</tlink>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<bejegyzesek>Bejegyzések</bejegyzesek>
+		<idBejegyzes>Bejegyzés ID</idBejegyzes>
+		<idProjekt>Projekt ID</idProjekt>
+		<bejegyzes>Bejegyzés</bejegyzes>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update>  
+	</tbl>
+	<tbl>
+		<cegek>Cégek</cegek>
+		<idCeg>Cég ID</idCeg>
+		<nev>Cég név</nev>
+		<irsz>Irsz.</irsz>
+		<telepules>Helyiség</telepules>
+		<cim>Cím</cim>
+		<agazat>Ágazat</agazat>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<csoportok>Csoportok</csoportok>
+		<idCsoport>Csoport ID</idCsoport>
+		<nev>Csoport név</nev>
+		<allapot>Állapot név</allapot>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<dokumentek>Dokumentumok</dokumentek>
+		<idDokument>Dokumentum ID</idDokument>
+		<idProjekt>Projekt ID</idProjekt>
+		<eutvonal>Eredeti útvonal</eutvonal>
+		<efajlnev>Eredeti fájlnév</efajlnev>
+		<tutvonal>Tárolt útvonal</tutvonal>
+		<tfajlnev>Tárolt fájlnév</tfajlnev>
+		<tlink>Tárolt link</tlink>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<eszkozok>Eszközök</eszkozok>
+		<idEszkoz>Eszköz ID</idEszkoz>
+		<nev>Eszköz név</nev>
+		<tipus>Típus</tipus>
+		<gysz>Gyári szám</gysz>
+		<allapot>Állapot név</allapot>
+		<last_update>Utolsó módosítás</last_update> 
+	</tbl>
+	<tbl>
+		<felhasznalok>Felhasználók</felhasznalok>
+		<idFelhasznalo>Felhasználó ID</idFelhasznalo>
+		<idEmail>e-mail</idEmail>
+		<csoport>Csoport</csoport>
+		<jelszo>Jelszó</jelszo>
+		<nev>Felhasználó név</nev>
+		<munkakor>Munkakör</munkakor>
+		<mobil>Mobil szám</mobil>
+		<allapot>Állapot név</allapot>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update> 
+	</tbl>
+	<tbl>
+		<jogok>Jogosultságok</jogok>
+		<idJog>Jog ID</idJog>
+		<nev>Jog név</nev>
+		<allapot>Állapot név</allapot>
+		<last_update>Utolsó módosítás</last_update> 
+	</tbl>
+	<tbl>
+		<megrendelesek>Megrendelések</megrendelesek>
+		<idMegrendeles>Megrendelés ID</idMegrendeles>
+		<idProjekt>Projekt ID</idProjekt>
+		<eutvonal>Eredeti útvonal</eutvonal>
+		<efajlnev>Eredeti fájlnév</efajlnev>
+		<tutvonal>Tárolt útvonal</tutvonal>
+		<tfajlnev>Tárolt fájlnév</tfajlnev>
+		<tlink>Tárolt link</tlink>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<minugyjegyzetek>Minőségügyi Feljegyzések</minugyjegyzetek>
+		<idMinUgyJegyzet>Minőségügyi jegyzet ID</idMinUgyJegyzet>
+		<idProjekt>Projekt ID</idProjekt>
+		<jegyzet>Minőségügyi jegyzet</jegyzet>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<munkakorok>Munkakörök</munkakorok>
+		<idMunkakor>Munkakör ID</idMunkakor>
+		<nev>Munkakör név</nev>
+		<allapot>Állapot név</allapot>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<muszerek>Műszerek</muszerek>
+		<idMuszer>Műszer ID</idMuszer>
+		<nev>Műszer név</nev>
+		<tipus>Típus</tipus>
+		<gysz>Gyári szám</gysz>
+		<kalbiz>Kalibrálási bizonyítvány száma</kalbiz>
+		<kaldatum>Kalibrálás dátum</kaldatum>
+		<kalerv>Kalibrálás érvényessége</kalerv>
+		<allapot>Állapot név</allapot>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<partnerek>Partnerek</partnerek>
+		<idPartner>Partner ID</idPartner>
+		<idCeg>Cég ID</idCeg>
+		<nev>Partner név</nev>
+		<beosztas>Beosztás</beosztas>
+		<reszleg>Részleg</reszleg>
+		<email>e-mail cím</email>
+		<mobil>Mobil szám</mobil>
+		<allapot>Állapot név</allapot>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<prjtipusok>Projekt típusok</prjtipusok>
+		<idPrjTipus>Projekt típus ID</idPrjTipus>
+		<nev>Projekt típus név</nev>
+		<allapot>Állapot név</allapot>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<projektek>Projektek</projektek>
+		<idProjekt>Projekt ID</idProjekt>
+		<nev>Projekt név</nev>
+		<allapot>Állapot név</allapot>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<letrehozo>Létrehozó</letrehozo>
+		<leiras>Prjekt leírás</leiras>
+		<kezdete>Projekt kezdete</kezdete>
+		<vege>Projekt vége</vege>
+		<ajanlatkell>Ajánlat kell?</ajanlatkell>
+		<megrendelve>Megrendelve?</megrendelve>
+		<dokukesz>Dokumentáció kész?</dokukesz>
+		<advekesz>Átadás-Átvételi kész?</advekesz>
+		<tibkesz>TIB kész?</tibkesz>
+		<szamlazva>Számlázva?</szamlazva>
+		<utoelet>Utóélet</utoelet>
+		<last_update>Utolsó módosítás</last_update>  ,
+		<checksum>Ellenőrzőjel</checksum>
+		<prjtipus>Projekt típus</prjtipus>
+	</tbl>
+	<tbl>
+		<szamlak>Számlák</szamlak>
+		<idSzamla>Számla ID</idSzamla>
+		<idProjekt>Projekt ID</idProjekt>
+		<eutvonal>Eredeti útvonal</eutvonal>
+		<efajlnev>Eredeti fájlnév</efajlnev>
+		<tutvonal>Tárolt útvonal</tutvonal>
+		<tfajlnev>Tárolt fájlnév</tfajlnev>
+		<tlink>Tárolt link</tlink>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<tibek>Teljesítés Igazolási Bizonylatok</tibek>
+		<idTib>Teljesítés Igazolási Bizonylat ID</idTib>
+		<idProjekt>Projekt ID</idProjekt>
+		<eutvonal>Eredeti útvonal</eutvonal>
+		<efajlnev>Eredeti fájlnév</efajlnev>
+		<tutvonal>Tárolt útvonal</tutvonal>
+		<tfajlnev>Tárolt fájlnév</tfajlnev>
+		<tlink>Tárolt link</tlink>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update> 
+	</tbl>
+	<tbl>
+		<xcsop_jog></xcsop_jog>
+		<idCsoport>CSoport ID</idCsoport>
+		<idJog>Jog ID</idJog>
+		<last_update>Utolsó módosítás</last_update> 
+	</tbl>
+	<tbl>
+		<xproj_adve></xproj_adve>
+		<idProjNr>Projekt ID</idProjNr>
+		<idAdVe>Átadás-Átvételi ID</idAdVe>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<xproj_ajan></xproj_ajan>
+		<idProjNr>Projekt ID</idProjNr>
+		<idAjanNr>Ajánlat ID</idAjanNr>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<xproj_alkm></xproj_alkm>
+		<idProjekt>Projekt ID</idProjekt>
+		<idFelhasznalo>Felhasználó ID</idFelhasznalo>
+		<letrehozas>Bejegyzés létrehozása</letrehozas>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<xproj_doku></xproj_doku>
+		<idProjNr>Projekt ID</idProjNr>
+		<idDokuNr>Dokumentáció ID</idDokuNr>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<xproj_eszk></xproj_eszk>
+		<idProjekt>Projekt ID</idProjekt>
+		<idEszkoz>Eszköz ID</idEszkoz>
+		<last_update>Utolsó módosítás</last_update> 
+	</tbl>
+	<tbl>
+		<xproj_megr></xproj_megr>
+		<idProjekt>Projekt ID</idProjekt>
+		<idMegrendeles>Megrendelés ID</idMegrendeles>
+		<last_update>Utolsó módosítás</last_update> 
+	</tbl>
+	<tbl>
+		<xproj_musz></xproj_musz>
+		<idProjekt>Projekt ID</idProjekt>
+		<idMuszer>Műszer ID</idMuszer>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+	<tbl>
+		<xproj_szlk></xproj_szlk>
+		<idProjekt>Projekt ID</idProjekt>
+		<idSzamla>Számla ID</idSzamla>
+		<last_update>Utolsó módosítás</last_update> 
+	</tbl>
+	<tbl>
+		<xproj_tibz></xproj_tibz>
+		<idProjekt>Projekt ID</idProjekt>
+		<idTib>TIB ID</idTib>
+		<last_update>Utolsó módosítás</last_update>
+	</tbl>
+</munkak_dosszie>
